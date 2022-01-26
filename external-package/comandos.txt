@@ -1,0 +1,6 @@
+comandos
+
+-----
+#comando para tratar as dependências
+
+$ go mod tidy

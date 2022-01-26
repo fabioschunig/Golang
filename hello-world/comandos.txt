@@ -1,0 +1,11 @@
+comandos
+
+-----
+#comando para inicializar o módulo
+
+$ go mod init example/hello-world
+
+-----
+#comando para rodar o exemplo
+
+$ go run .
