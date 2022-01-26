@@ -1,0 +1,6 @@
+comandos
+
+-----
+#comando para utilizar a dependencia localmente
+
+$ go mod edit -replace example.com/greetings=../greetings
